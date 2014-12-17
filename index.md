@@ -15,7 +15,7 @@ us!
 
 Simply connect to [chat.freenode.net:6697](ircs://chat.freenode.net:6697/%23%23socialism) (SSL)
 or [chat.freenode.net:6667](irc://chat.freenode.net:6667/%23%23socialism) and join
-[##socialism](ircs://chat.freenode.net:6697/
+[##socialism](ircs://chat.freenode.net:6697/)
 
 ## Via Webchat
 
