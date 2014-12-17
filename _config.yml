@@ -1,0 +1,7 @@
+server: true
+page_title: Freenode Socialism
+title: "Freenode Socialism"
+tagline: Freenode Socialism
+repository_url: https://github.com/freenode-socialism/freenode-socialism.github.io/
+permalink: pretty
+markdown: kramdown
