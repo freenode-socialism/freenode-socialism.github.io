@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Book Club
+title: Reading Group
 ---
 
-Every so often we’ll choose a political book to read and then get together on IRC to discuss it. 
+Every so often we’ll choose a political book or text to read and then get together on IRC to discuss it.
 
 ## Current Book
 
