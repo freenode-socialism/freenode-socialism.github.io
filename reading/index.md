@@ -3,7 +3,7 @@ layout: default
 title: Reading Group
 ---
 
-Every so often we’ll choose a political book or text to read and then get together on IRC to discuss it.
+Every so often we’ll choose a political book or text to read and then get together on IRC to discuss it. You don’t have to be an expert to take part; all are welcome to join in the discussion or just read and ask questions.
 
 ## Current Book
 
