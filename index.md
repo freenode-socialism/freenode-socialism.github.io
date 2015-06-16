@@ -30,11 +30,14 @@ keep our community true to its principles.
 
 # How to Connect
 
-Via IRC client: Simply connect to chat.freenode.net:6697 (SSL) or
+## Via IRC client
+
+Simply connect to chat.freenode.net:6697 (SSL) or
 chat.freenode.net:6667 and join ##socialism
 
-Via your browser:
-https://kiwiirc.com/client/chat.freenode.net:+6697/##socialism
+## Via your browser
+
+[![Visit our IRC channel](https://kiwiirc.com/buttons/chat.freenode.net/%23socialism.png)](https://kiwiirc.com/client/chat.freenode.net:+6697/##socialism)
 
 
 # Beginner's IRC Guide
