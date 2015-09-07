@@ -9,7 +9,7 @@ title: Home
 
 Our channel strives to be non-sectarian and open to Marxists, socialists, and anarchists as well as others curious about leftist ideologies. Fascists, right-libertarians, and other reactionaries are not welcome. We are friendly to newcomers, both to the channel and socialist ideology. Off topic conversation is perfectly fine if it isn’t detracting from ongoing political discussions. Extended arguments between individual users that impede on other users’ ability to use the channel should be taken to private messages.
 
-Users that spam our channel, use unnecessary hostility, or engage in/apologize for racism, sexism, ableism, homophobia, transphobia, genocide, rape, or pedophilia will be warned, quieted, or banned. Public logging is not allowed and users found to be doing this will be banned. As we follow a discretionary moderation model, quiets/bans may be used in situations not described above to keep our community true to its principles.
+Users that spam our channel, use unnecessary hostility, or engage in/apologize for racism, sexism, ableism, homophobia, transphobia, genocide, imperialism, rape, or pedophilia will be warned, quieted, or banned. Public logging is not allowed and users found to be doing this will be banned. As we follow a discretionary moderation model, quiets/bans may be used in situations not described above to keep our community true to its principles.
 
 
 # How to Connect
